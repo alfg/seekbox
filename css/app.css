@@ -1,6 +1,7 @@
 html { height: 100%; }
 body {
     color: #FFF;
+    height: 100%;
     /*text-align: center; */
     text-shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 0 30px rgba(0, 0, 0, .075);
     background: #020031;
@@ -16,9 +17,10 @@ body {
     margin-top: 200px;
 }
 .search-box input {
-    padding: 15px 0px 15px 10px;
+    padding: 10px 0px 10px 10px;
     font-size: 2em;
     line-height: 1;
+    height: 25px;
 }
 .search-box h1 {
     font-size: 54px;
